@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @askat58
 - 👀 I’m interested in ...Front End Development
-- 🌱 I’m currently learning ... React.js
+- 🌱 I’m currently learning ... React.js. I also start to learn PHP
 - 💞️ I’m looking to collaborate on ... creating websites, projects and so on..
 - 📫 How to reach me ... https://www.linkedin.com/in/joanna-el%C5%BCbieta-t-288561181/
 
