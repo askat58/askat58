@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @askat58
-- 👀 I’m interested in ...Front End Development
-- 🌱 I’m currently learning ... SASS preprocesor and PHP.
-- 💞️ I’m looking to collaborate on ... creating websites, projects and so on..
+- 👀 I’m interested in ...job as a Front End Development
+- 🌱 I’m currently learning ... Sass, GIT and PHP.
+- 💞️ I’m looking to collaborate on ... Frontend Web Developer role. It could be creating websites, new projects and so on..
 - 📫 How to reach me ... https://www.linkedin.com/in/joannatucka/ and https://joannatucka.com/
 
 <!---
