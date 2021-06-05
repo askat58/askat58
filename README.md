@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @askat58
-- 👀 I’m interested in ...job as a Front End Development
+- 👀 I’m interested in ...job as a Front End Developer
 - 🌱 I’m currently learning ... jQuery, Sass, GIT and PHP.
 - 💞️ I’m looking to collaborate on ... Frontend Web Developer role. It could be creating websites, new projects and so on..
 - 📫 How to reach me ... https://www.linkedin.com/in/joannatucka/ and https://joannatucka.com/
